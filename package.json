@@ -1,0 +1,13 @@
+{
+  "name" : "simples",
+  "version" : "0.1.0",
+  "dependencies" : {
+    "preact" : "~> 7.2",
+    "preact-mdl": "~> 2.2",
+    "preact-router": "~> 2.4",
+    "preact-layout": "~> 1.0",
+    "preact-helmet": "4.0.0-alpha-2",
+    "preact-views": "~> 1.0",
+    "preact-richtextarea": "~> 1.1"
+  }
+}
